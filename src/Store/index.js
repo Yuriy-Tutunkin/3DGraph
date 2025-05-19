@@ -1,7 +1,4 @@
 import { reactive } from 'vue'
-import * as fs from 'node:fs'
-
-
 
 export const state = reactive({
     x: [0],
